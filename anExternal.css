@@ -2,13 +2,14 @@
 .animalcrossingparagraph {
     color: red;
     border-style: dotted;
+    background-color: greenyellow;
 }
 .container { 
     position: relative;  
     text-align: center;  
     color: white;
 }
-.smallerimages {
+.smallerImages {
     width: 100px;
     height: 100px;
     float: right;
