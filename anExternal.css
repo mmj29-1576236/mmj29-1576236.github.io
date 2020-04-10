@@ -1,0 +1,40 @@
+
+.animalcrossingparagraph {
+    color: red;
+    border-style: dotted;
+}
+.container { 
+    position: relative;  
+    text-align: center;  
+    color: white;
+}
+.smallerimages {
+    width: 100px;
+    height: 100px;
+    float: right;
+    margin: 20px;
+}
+
+.centered {  
+    position: absolute;  
+    top: 50%;  
+    left: 50%;  
+    transform: 
+    translate(-50%, -50%);
+}
+
+#yellowContainer {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: yellow;
+}
+
+
+#firstFont {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#secondFont {
+    font-family: Arial, Helvetica, sans-serif;  
+}
