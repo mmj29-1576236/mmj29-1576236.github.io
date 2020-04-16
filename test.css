@@ -1,0 +1,62 @@
+h1 {
+    text-align: center;
+    color: #FFBC00;
+    font-weight: bold;
+    font-family: 'Passion One', cursive;
+    font-size: 60px;
+}
+
+#header {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0px;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    color: #FFBC00;
+    font-size: 40px;
+    font-family: 'Passion One', cursive
+} 
+
+#leftNav {
+    width: 400px;
+}
+
+#Content {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto; 
+    margin-bottom: 10px; 
+}
+
+img {
+    width: 500px;
+}
+
+p {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
+    background-color: #8E41D5;
+}
+
+body {
+    background-image: url("price.jpg");
+}
+
