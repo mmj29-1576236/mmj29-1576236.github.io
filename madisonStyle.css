@@ -1,0 +1,11 @@
+#quadParagraph {
+    color: hotpink;  
+    text-align: center; 
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+#quadPic {
+    border: whitesmoke !important;
+}
